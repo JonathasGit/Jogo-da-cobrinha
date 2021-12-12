@@ -66,30 +66,6 @@ snake[0] ={
 
  //let jogo = setInterval(iniciarJogo, 100); /*Intervalo do jogo */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function criarBG(){
     context.fillStyle = "lightgreen";
     context.fillRect(0, 0, 16*box, 16*box); //desenha o retângulo usando x e y e a largura e altura setadas
